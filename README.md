@@ -23,7 +23,7 @@ https://en.wikipedia.org/wiki/Hill_climbing
 > matplotlib.pyplot
 
 ## Improvements (that you could do :D )
-* Plot the 3D surface
+~* Plot the 3D surface~
 * Plot the climbing path in 3D too over the surface
 * Implement the several random runs option as a parameter
 * Make the radial function more inttelligent (if you pay attention, the same points may be evaluated multiple times).
